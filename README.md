@@ -2,6 +2,10 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Status
+
+[![Deploy Nuxt site to Pages](https://github.com/IneMenten/FamilyPlanner/actions/workflows/nuxtjs.yml/badge.svg)](https://github.com/IneMenten/FamilyPlanner/actions/workflows/nuxtjs.yml)
+
 ## Setup
 
 Make sure to install the dependencies:
