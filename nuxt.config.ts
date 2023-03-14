@@ -2,4 +2,7 @@
 export default defineNuxtConfig({
 	modules: ['@nuxtjs/supabase', '@nuxtjs/supabase'],
 	css: ['@/assets/main.css'],
+	app: {
+		baseURL: '/FamilyPlanner/',
+	},
 });
