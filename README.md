@@ -4,7 +4,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Status
 
-[![Deploy Nuxt site to Pages](https://github.com/IneMenten/FamilyPlanner/actions/workflows/nuxtjs.yml/badge.svg)](https://github.com/IneMenten/FamilyPlanner/actions/workflows/nuxtjs.yml)
+[![pages-build-deployment](https://github.com/IneMenten/FamilyPlanner/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/IneMenten/FamilyPlanner/actions/workflows/pages/pages-build-deployment)
 
 ## Setup
 
